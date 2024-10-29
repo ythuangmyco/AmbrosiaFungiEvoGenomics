@@ -1,0 +1,61 @@
+Family,Ambrosia,Metric,Median
+Ophiostomataceae,Y,Genome Size (Mb),36.145224
+Ophiostomataceae,Y,TE Coverage (%),7.92
+Ophiostomataceae,Y,Number of Genes (K),12.17
+Ophiostomataceae,Y,Secreted Proteins (K),3.474
+Ophiostomataceae,Y,GC content (%),55.34
+Ophiostomataceae,Y,BUSCO Completeness (%),99.07651715039579
+Ophiostomataceae,N,Genome Size (Mb),32.6077315
+Ophiostomataceae,N,TE Coverage (%),5.3149999999999995
+Ophiostomataceae,N,Number of Genes (K),10.864
+Ophiostomataceae,N,Secreted Proteins (K),2.9455
+Ophiostomataceae,N,GC content (%),53.355000000000004
+Ophiostomataceae,N,BUSCO Completeness (%),99.07651715039579
+Nectriaceae,Y,Genome Size (Mb),48.125938
+Nectriaceae,Y,TE Coverage (%),1.69
+Nectriaceae,Y,Number of Genes (K),21.224
+Nectriaceae,Y,Secreted Proteins (K),6.213
+Nectriaceae,Y,GC content (%),51.21
+Nectriaceae,Y,BUSCO Completeness (%),98.68073878627969
+Nectriaceae,N,Genome Size (Mb),49.761716
+Nectriaceae,N,TE Coverage (%),2.46
+Nectriaceae,N,Number of Genes (K),20.6295
+Nectriaceae,N,Secreted Proteins (K),6.192500000000001
+Nectriaceae,N,GC content (%),51.355000000000004
+Nectriaceae,N,BUSCO Completeness (%),98.54881266490764
+Ceratocystidaceae,Y,Genome Size (Mb),27.08434
+Ceratocystidaceae,Y,TE Coverage (%),1.89
+Ceratocystidaceae,Y,Number of Genes (K),9.113
+Ceratocystidaceae,Y,Secreted Proteins (K),2.165
+Ceratocystidaceae,Y,GC content (%),46.77
+Ceratocystidaceae,Y,BUSCO Completeness (%),98.68073878627969
+Ceratocystidaceae,N,Genome Size (Mb),27.696254500000002
+Ceratocystidaceae,N,TE Coverage (%),7.97
+Ceratocystidaceae,N,Number of Genes (K),8.672
+Ceratocystidaceae,N,Secreted Proteins (K),2.1555
+Ceratocystidaceae,N,GC content (%),48.475
+Ceratocystidaceae,N,BUSCO Completeness (%),99.34036939313984
+Irpicaceae,Y,Genome Size (Mb),28.089551
+Irpicaceae,Y,TE Coverage (%),10.4
+Irpicaceae,Y,Number of Genes (K),15.772
+Irpicaceae,Y,Secreted Proteins (K),4.305
+Irpicaceae,Y,GC content (%),49.75
+Irpicaceae,Y,BUSCO Completeness (%),98.54881266490764
+Irpicaceae,N,Genome Size (Mb),34.9416135
+Irpicaceae,N,TE Coverage (%),7.135
+Irpicaceae,N,Number of Genes (K),14.861999999999998
+Irpicaceae,N,Secreted Proteins (K),4.1185
+Irpicaceae,N,GC content (%),51.285
+Irpicaceae,N,BUSCO Completeness (%),98.15303430079155
+Overall,Y,Genome Size (Mb),36.7484475
+Overall,Y,TE Coverage (%),2.095
+Overall,Y,Number of Genes (K),13.8455
+Overall,Y,Secreted Proteins (K),4.0184999999999995
+Overall,Y,GC content (%),51.245000000000005
+Overall,Y,BUSCO Completeness (%),98.74670184696569
+Overall,N,Genome Size (Mb),34.119913999999994
+Overall,N,TE Coverage (%),5.9
+Overall,N,Number of Genes (K),12.9145
+Overall,N,Secreted Proteins (K),3.6105
+Overall,N,GC content (%),51.135000000000005
+Overall,N,BUSCO Completeness (%),98.94459102902374
